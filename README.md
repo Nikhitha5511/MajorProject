@@ -1,5 +1,7 @@
 # Major Project
+# Hosted Link
 
+https://nikhitha5511.github.io/MajorProject/
 1.![first](s1.png)
 
 2.![second](s2.png)
